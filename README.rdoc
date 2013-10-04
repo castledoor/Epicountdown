@@ -1,0 +1,7 @@
+EPICOUNTDOWN is a project I did on a rainy Satuday in Portland.
+
+It counts down the days that are left in the Epicodus program.
+
+Will be changed after the program is over to show the time since the program.
+
+November 22nd couldnt come fast enough !!
